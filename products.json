@@ -1,0 +1,54 @@
+﻿{
+   "products":[
+      {
+         "price":3759000,
+         "_id":"61d2d4afc45eef2ccbff9959",
+         "title":"سامسونگ مدل A12",
+         "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/c5c4a0bb88dc312a4c2f6de0b1567ef0da31a2d9_1630140406.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+         "mojodi":"موجود در انبار دیجی کالا"
+         
+      },
+      {
+         "price":7245000,
+         "_id":"61d563acc45eef2ccbff9985",
+         "title":"شیاِومی مدل POCO",
+         "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/77f6b5b39b58f0b81c7707e3626f55b74ee348aa_1623857594.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+         "mojodi":"موجود در انبار دیجی کالا"
+         
+      },
+      {
+         "price":9899000,
+         "_id":"61d69979c45eef2ccbff998e",
+         "title":"سامسونگ مدل A52",
+         "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/8a499b9702b546cdcd882c72dab527b95924a4b5_1630926567.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+         "mojodi":"موجود در انبار دیجی کالا"
+         
+      },
+      {
+         "price":26500000,
+         "_id":"61d98b07a98f8774771f2a74",
+         "title":"ایفون 13 ",
+         "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/9db64cde85334e3bf4a6571547d339c57867f11f_1634032209.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+         "mojodi":"موجود در انبار دیجی کالا"
+      
+      },
+      {
+         "price":2475000,
+         "_id":"61e27ace9d3fa05f5e8f3d78",
+         "title":"شیاِومی redmi9",
+         "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/2f5cbd1996ddd89464afeed70d4def6529cb4ed8_1597575940.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+         "mojodi":"موجود در انبار دیجی کالا"
+         
+      },
+      {
+         "price":18800000,
+         "_id":"61e591779d3fa05f5e8f3da2",
+         "title":"ایفون 11",
+         "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/987bbf684de2df847c8fa1dcb9570fbf580f79dc_1611468226.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+         "mojodi":"موجود در انبار دیجی کالا"
+         
+      }
+     
+   ],
+   "totalCourse":12
+}
